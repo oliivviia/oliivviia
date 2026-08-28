@@ -1,4 +1,4 @@
-## Hi there 👋
+## Data-driven BA & Service Designer 👋
 
 <!--
 **oliivviia/oliivviia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
